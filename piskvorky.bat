@@ -2,6 +2,8 @@
 @echo off
 :: for variables which are in for or if
 setlocal enabledelayedexpansion
+:: title
+title Piskvorky
 
 set numList = ""
 set displayList = ""
